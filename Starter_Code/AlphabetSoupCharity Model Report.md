@@ -19,5 +19,5 @@ The neurons chosen were just random guesses which was iterated to see which one 
 3. Addisional hidden layer was added, more neurons were added in attempt to achieve higher model accuracy.
 
 ## Summary 
-In summary, the analysis involved creating and evaluating deep learning neural network model to predict the success of charitable organizations receiving funding from Alphabet Soup. The model achieved the highest accuracy of 73.04%.
+In summary, the analysis involved creating and evaluating deep learning neural network model to predict the success of charitable organizations receiving funding from Alphabet Soup. The model achieved the highest accuracy of 72.66%.
 Using a model with higher correlation between input and output would likely help to result a higher prediction accuracy. This could be done by doing extar data cleaning and using a model with a different activation function and iterating numbers of neurons until higher accuracy is met.
